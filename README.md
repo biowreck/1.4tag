@@ -2,7 +2,7 @@
 C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2393395676\About
 
 
-2. Open about.xml file with notepad.
+2. Open the about.xml file with notepad.
 
 
 3. Delete all of the text and copy/paste this in the same notepad:
